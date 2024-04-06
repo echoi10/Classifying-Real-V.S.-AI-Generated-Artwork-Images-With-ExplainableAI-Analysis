@@ -20,7 +20,7 @@ def submit_batch():
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
-        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMzhlZjBkZDgtMDUwYS00OWM4LTg1ZDgtYmVlOTY0NzViNzFhIiwidHlwZSI6ImFwaV90b2tlbiJ9.78WZbGBe455paSwHbuUOu4AbWlc6d895_tlJk1J1WIw"
+        "authorization": ""
     }
     
     payload = { "requests": [] }
